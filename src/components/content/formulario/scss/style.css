@@ -1,0 +1,9 @@
+.formulario {
+  position: absolute;
+  right: 20%;
+  top: 30%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 25%;
+}/*# sourceMappingURL=style.css.map */
